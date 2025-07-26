@@ -1,0 +1,11 @@
+{
+  "class_path": "langchain.memory.VectorStoreRetrieverMemory",
+  "init_kwargs": {
+    "vectorstore": {
+      "class_path": "langchain.vectorstores.FAISS",
+      "init_kwargs": {"index": null}
+    },
+    "memory_key": "chat_memory",
+    "return_source_documents": true
+  }
+}

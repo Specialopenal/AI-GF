@@ -1,0 +1,7 @@
+{
+  "model": "mistral",
+  "temperature": 0.7,
+  "max_tokens": 100,
+  "function_call": "auto",
+  "return_intermediate_steps": "False"
+}
